@@ -1,6 +1,6 @@
 # Large-scale-Occluded-Cloud-Detection-Dataset
 Large-scale Occluded Cloud Detection Dataset (LOCDD) is collected from 2019 to 2023 in nine provinces of China, which includes Tianjin, Anhui, Sichuan, Gansu, Shandong, Hebei, Liaoning, Jiangsu, and Hainan. The LOCDD is the first three-category ground-based remote sensing cloud detection dataset that considers occlusion labels.  It contains 5000 ground-based cloud samples and their corresponding cloud masks. The LOCDD is composed of 2100 training samples and 2900 test samples. The cloud samples are captured by visual sensors and stored in the PNG format with the pixel resolution of 512×512. All the samples are cooperatively annotated by the meteorologists and the cloud related researchers from College of Electronic and Communication Engineering, Tianjin Normal University, Tianjin, China, and Meteorological Observation Centre, China Meteorological Administration, Beijing, China. The LOCDD will be provided free of charge to cloud-related researchers in order to promote research. Hereunder, some ground-based cloud samples and their cloud masks are presented.
 
-
+![LOCDD](https://github.com/user-attachments/assets/a422dc86-3b77-498e-9d06-77a562038564)
 # Download
 Please download, fill and sign the LOCDD Agreement and return the whole document to shuangliu.tjnu@gmail.com or s.liu@tjnu.edu.cn. The downloaded URL and password will be contained in the replied email.
